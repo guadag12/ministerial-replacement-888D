@@ -10,7 +10,7 @@ options(scipen= 999)
 
 
 # Import data -------------------------------------------------------------
-ministerial_replacement <- read.csv("Data/new_database_ministerial_replacement_with_wikipedia.csv")
+ministerial_replacement <- read.csv("Data/new_database_ministerial_replacement.csv")
 ministerial_replacement$correccion_fechadeentrada <- as.Date(ministerial_replacement$correccion_fechadeentrada)
 ministerial_replacement$informacion_personal_nacimiento_date <- as.Date(ministerial_replacement$informacion_personal_nacimiento_date)
 
