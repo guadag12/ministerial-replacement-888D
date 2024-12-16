@@ -1,6 +1,5 @@
 # Ministerial Replacement Analysis
 
-## Project Overview
 This project investigates trends and patterns in ministerial replacements using a dataset enriched with information from Wikipedia. The analysis focuses on understanding the dynamics of ministerial tenure and the factors influencing the rate of replacement across different administrations.
 
 ## Repository Contents
